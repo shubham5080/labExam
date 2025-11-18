@@ -1,0 +1,99 @@
+# MatrixMultiplication.c
+3
+1 2 3
+4 5 6
+7 8 9
+9 8 7
+6 5 4
+3 2 1
+
+# activitySelection.c
+6
+1 3 0 5 8 5
+2 4 6 7 9 9
+
+# bellmon.c / bellmonFord.c
+5
+7
+0 1 6
+0 3 7
+1 2 5
+1 3 8
+1 4 -4
+2 1 -2
+3 2 -3
+0
+
+# bubbleSort.c / insertionSort.c / selectionSort.c / heapSort.c / mergeSort.c / quickSort.c
+10
+9 4 1 7 3 8 6 5 2 0
+
+# coinChange.c
+4
+1 2 5 10
+23
+
+# dijkratas.c (Dijkstra)
+5
+0 2 0 6 0
+2 0 3 8 5
+0 3 0 0 7
+6 8 0 0 9
+0 5 7 9 0
+0
+
+# fibonacci.c
+10
+
+# fractionalKnapsack.c
+3
+10 20 30
+60 100 120
+50
+
+# jobsequencing.c
+4
+4 1 1 1
+20 10 40 30
+
+# knapsack.c
+3
+10 20 30
+60 100 120
+50
+
+# kthSmallest.c
+10
+9 4 1 7 3 8 6 5 2 0
+
+# longestCommonSubsequence.c
+abcde
+ace
+
+# matrixMul.dp (Matrix Chain Multiplication)
+5
+1 2 3 4 3
+
+# minAndMaxDC.c
+6
+4 10 8 2 99 5
+
+# minimumCoins.c
+4
+10 5 2 1
+43
+
+# rodCut.c
+8
+1 5 8 9 10 17 17 20
+
+# strassens.c (recursive version)
+4
+1 2 3 4
+5 6 7 8
+1 1 1 1
+2 2 2 2
+1 0 1 0
+0 1 0 1
+1 1 0 0
+2 2 1 1
